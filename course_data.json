@@ -9,7 +9,10 @@
     "isFree": true,
     "category": "Entrance Exam",
     "cardColorHex": "#FFF9E6",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3976/3976626.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3976/3976626.png",
+    "description": "Complete preparation course for Jawahar Navodaya Vidyalaya Selection Test Class 6. Covers Mental Ability, Arithmetic and Language with practice tests and mock exams.",
+    "whatYouLearn": ["Mental Ability Test strategies", "Arithmetic problem solving", "Language proficiency skills", "Previous year paper solutions", "Time management techniques"],
+    "requirements": ["Class 5 level basics", "Notebook and pen", "Dedication to practice daily"]
   },
   {
     "id": "jnvst9",
@@ -21,7 +24,10 @@
     "isFree": true,
     "category": "Entrance Exam",
     "cardColorHex": "#E9F4FF",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/2602/2602414.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/2602/2602414.png",
+    "description": "Lateral entry preparation for JNVST Class 9. Covers English, Mathematics, Science and General Knowledge thoroughly.",
+    "whatYouLearn": ["English grammar and comprehension", "Mathematics up to Class 8", "Science fundamentals", "General Knowledge and current affairs", "Full mock test practice"],
+    "requirements": ["Class 8 completion", "Basic English reading", "Notebook for practice"]
   },
   {
     "id": "adca",
@@ -33,7 +39,10 @@
     "isFree": true,
     "category": "Computer",
     "cardColorHex": "#EDFFF4",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3474/3474360.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3474/3474360.png",
+    "description": "Advanced Diploma in Computer Applications covering MS Office, Internet, Tally, HTML basics and programming introduction.",
+    "whatYouLearn": ["MS Word Excel and PowerPoint", "Internet and email usage", "Tally basics and accounting", "HTML and web fundamentals", "Programming introduction", "Computer hardware basics"],
+    "requirements": ["Basic computer knowledge", "Class 10 pass", "Laptop or PC access"]
   },
   {
     "id": "dca",
@@ -45,7 +54,10 @@
     "isFree": true,
     "category": "Computer",
     "cardColorHex": "#FFF0F5",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920277.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920277.png",
+    "description": "Diploma in Computer Applications covering all basic computer skills needed for office and day to day use.",
+    "whatYouLearn": ["Computer fundamentals", "MS Office basics", "Internet browsing and email", "Typing skills", "Basic file management"],
+    "requirements": ["No prior experience needed", "Basic English reading", "Computer access"]
   },
   {
     "id": "dfa",
@@ -57,7 +69,10 @@
     "isFree": true,
     "category": "Computer",
     "cardColorHex": "#F5F0FF",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3281/3281289.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3281/3281289.png",
+    "description": "Diploma in Financial Accounting covering manual and computerized accounting with Tally and GST fundamentals.",
+    "whatYouLearn": ["Manual accounting basics", "Tally ERP 9 and Tally Prime", "GST fundamentals", "Balance sheet preparation", "Financial statements"],
+    "requirements": ["Class 10 with Commerce preferred", "Basic computer knowledge", "Calculator"]
   },
   {
     "id": "tally",
@@ -69,7 +84,10 @@
     "isFree": true,
     "category": "Accounting",
     "cardColorHex": "#FFF5E6",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/2910/2910768.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/2910/2910768.png",
+    "description": "Complete Tally Prime course with GST filing. Learn accounting from scratch to advanced level with real-world business examples.",
+    "whatYouLearn": ["Tally Prime complete", "GST return filing", "Ledger and voucher entry", "Payroll management", "Inventory management", "Bank reconciliation"],
+    "requirements": ["Basic accounting knowledge preferred", "Computer access", "Tally Prime installed"]
   },
   {
     "id": "android",
@@ -81,7 +99,10 @@
     "isFree": true,
     "category": "Programming",
     "cardColorHex": "#E6FFE9",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/888/888839.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/888/888839.png",
+    "description": "Build real Android apps from scratch using Kotlin and Jetpack Compose. From UI design to publishing on Play Store.",
+    "whatYouLearn": ["Kotlin programming fundamentals", "Jetpack Compose UI", "Navigation component", "REST API with Retrofit", "Room database", "Publish on Play Store"],
+    "requirements": ["Basic programming knowledge", "Laptop with Android Studio", "Minimum 8GB RAM recommended"]
   },
   {
     "id": "java",
@@ -93,7 +114,10 @@
     "isFree": true,
     "category": "Programming",
     "cardColorHex": "#FFF9E6",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/226/226777.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/226/226777.png",
+    "description": "Master Core Java with complete Object Oriented Programming concepts. Build strong foundation for Android and backend development.",
+    "whatYouLearn": ["Java syntax and basics", "OOPs concepts classes and objects", "Inheritance and polymorphism", "Exception handling", "Collections framework", "File handling"],
+    "requirements": ["No prior coding experience needed", "Computer with JDK installed", "Willingness to practice"]
   },
   {
     "id": "python",
@@ -105,7 +129,10 @@
     "isFree": true,
     "category": "Programming",
     "cardColorHex": "#E9F4FF",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
+    "description": "Python programming from beginner to intermediate. Covers all fundamentals with practical projects and exercises.",
+    "whatYouLearn": ["Python syntax and variables", "Control flow and loops", "Functions and modules", "File handling", "Introduction to libraries", "Mini projects"],
+    "requirements": ["No experience needed", "Computer with Python installed", "Basic math knowledge"]
   },
   {
     "id": "kotlin",
@@ -117,7 +144,10 @@
     "isFree": true,
     "category": "Programming",
     "cardColorHex": "#F0EAFF",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+    "description": "Complete Kotlin programming for modern Android development. Covers coroutines, flow, and Jetpack libraries.",
+    "whatYouLearn": ["Kotlin basics and syntax", "Null safety", "Coroutines and Flow", "Jetpack Compose basics", "ViewModel and StateFlow", "Clean architecture"],
+    "requirements": ["Basic Java or programming knowledge", "Android Studio installed", "Laptop with good specs"]
   },
   {
     "id": "sscgd",
@@ -129,7 +159,10 @@
     "isFree": true,
     "category": "Competitive",
     "cardColorHex": "#FFECE6",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/1995/1995574.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/1995/1995574.png",
+    "description": "Complete SSC GD Constable exam preparation covering all 4 sections with previous year papers and mock tests.",
+    "whatYouLearn": ["General Intelligence and Reasoning", "General Knowledge and Awareness", "Elementary Mathematics", "English and Hindi", "Previous year paper analysis"],
+    "requirements": ["Class 10 pass", "Age between 18-23 years", "Daily 2 hours study commitment"]
   },
   {
     "id": "wb9",
@@ -141,7 +174,10 @@
     "isFree": true,
     "category": "Tuitions",
     "cardColorHex": "#E6F5FF",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3976/3976626.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3976/3976626.png",
+    "description": "Complete West Bengal Board Class 9 tuition covering all subjects — Mathematics, Science, English, History and Geography.",
+    "whatYouLearn": ["Mathematics complete syllabus", "Physical Science and Life Science", "English grammar and literature", "History of India and World", "Geography of India and WB"],
+    "requirements": ["Class 8 pass", "WB Board syllabus books", "Notebook for each subject"]
   },
   {
     "id": "wb10",
@@ -153,7 +189,10 @@
     "isFree": true,
     "category": "Tuitions",
     "cardColorHex": "#FFEEF5",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3976/3976626.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3976/3976626.png",
+    "description": "Madhyamik board exam complete preparation. All subjects covered with focus on scoring high in WB Board Class 10 exams.",
+    "whatYouLearn": ["Mathematics with shortcuts", "Physical and Life Science", "English for board exam", "History and Geography Madhyamik", "Full mock test papers"],
+    "requirements": ["Class 9 completion", "WB Board books Class 10", "Regular study habit"]
   },
   {
     "id": "english",
@@ -165,6 +204,9 @@
     "isFree": true,
     "category": "Language",
     "cardColorHex": "#EDFFF4",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/484/484582.png"
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/484/484582.png",
+    "description": "Complete spoken English course from beginner to advanced. Learn to speak confidently in interviews, office and daily life.",
+    "whatYouLearn": ["Basic English grammar", "Sentence building skills", "Speaking with confidence", "Interview preparation", "Business English basics", "Pronunciation improvement"],
+    "requirements": ["Basic Hindi or regional language literacy", "Willingness to speak and practice", "No prior English needed"]
   }
 ]
