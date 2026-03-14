@@ -1,0 +1,86 @@
+[
+  {
+    "id": "jnvst6",
+    "title": "JNVST Class 6",
+    "description": "Navodaya Entrance Prep",
+    "colorHtml": "#FFF9E6"
+  },
+  {
+    "id": "jnvst9",
+    "title": "JNVST Class 9",
+    "description": "Lateral Entry Exam Prep",
+    "colorHtml": "#E9F4FF"
+  },
+  {
+    "id": "adca",
+    "title": "ADCA",
+    "description": "Adv. Diploma Computer",
+    "colorHtml": "#EDFFF4"
+  },
+  {
+    "id": "dca",
+    "title": "DCA",
+    "description": "Diploma in Computer",
+    "colorHtml": "#FFF0F5"
+  },
+  {
+    "id": "dfa",
+    "title": "DFA",
+    "description": "Financial Accounting",
+    "colorHtml": "#F5F0FF"
+  },
+  {
+    "id": "tally",
+    "title": "Tally + GST",
+    "description": "Complete Tally Course",
+    "colorHtml": "#FFF5E6"
+  },
+  {
+    "id": "android",
+    "title": "Android Development",
+    "description": "Build Android Apps",
+    "colorHtml": "#E6FFE9"
+  },
+  {
+    "id": "java",
+    "title": "Java + OOPs",
+    "description": "Core Java Complete",
+    "colorHtml": "#FFF9E6"
+  },
+  {
+    "id": "python",
+    "title": "Python",
+    "description": "Python Basics to Advanced",
+    "colorHtml": "#E9F4FF"
+  },
+  {
+    "id": "kotlin",
+    "title": "Kotlin",
+    "description": "Modern Android Kotlin",
+    "colorHtml": "#F0EAFF"
+  },
+  {
+    "id": "sscgd",
+    "title": "SSC GD",
+    "description": "Constable Exam Prep",
+    "colorHtml": "#FFECE6"
+  },
+  {
+    "id": "wb9",
+    "title": "WB Tuition Class 9",
+    "description": "All Subjects Class 9",
+    "colorHtml": "#E6F5FF"
+  },
+  {
+    "id": "wb10",
+    "title": "WB Tuition Class 10",
+    "description": "All Subjects Class 10",
+    "colorHtml": "#FFEEF5"
+  },
+  {
+    "id": "english",
+    "title": "English Spoken",
+    "description": "Beginner to Advanced",
+    "colorHtml": "#EDFFF4"
+  }
+]
