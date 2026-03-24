@@ -7,12 +7,25 @@
     "lessons": 45,
     "rating": 4.9,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Entrance Exam",
     "cardColorHex": "#FFF9E6",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/3976/3976626.png",
     "description": "Complete preparation course for Jawahar Navodaya Vidyalaya Selection Test Class 6. Covers Mental Ability, Arithmetic and Language with practice tests and mock exams.",
     "whatYouLearn": ["Mental Ability Test strategies", "Arithmetic problem solving", "Language proficiency skills", "Previous year paper solutions", "Time management techniques"],
-    "requirements": ["Class 5 level basics", "Notebook and pen", "Dedication to practice daily"]
+    "requirements": ["Class 5 level basics", "Notebook and pen", "Dedication to practice daily"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "250+ Live & Recorded sessions with top faculty" },
+      { "icon": "notes", "title": "Study Material", "description": "Comprehensive PDF notes & daily practice papers" },
+      { "icon": "quiz", "title": "Mock Tests", "description": "50+ JNVST pattern OMR based mock tests" },
+      { "icon": "doubt", "title": "Doubt Solving", "description": "24/7 dedicated support for all your queries" }
+    ],
+    "teachers": [
+      { "name": "Karishma Thakur", "role": "Navodaya Expert", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Ankit Dutta", "role": "Tuition Head", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" }
+    ]
   },
   {
     "id": "jnvst9",
@@ -22,12 +35,25 @@
     "lessons": 38,
     "rating": 4.8,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Entrance Exam",
     "cardColorHex": "#E9F4FF",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/2602/2602414.png",
     "description": "Lateral entry preparation for JNVST Class 9. Covers English, Mathematics, Science and General Knowledge thoroughly.",
     "whatYouLearn": ["English grammar and comprehension", "Mathematics up to Class 8", "Science fundamentals", "General Knowledge and current affairs", "Full mock test practice"],
-    "requirements": ["Class 8 completion", "Basic English reading", "Notebook for practice"]
+    "requirements": ["Class 8 completion", "Basic English reading", "Notebook for practice"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "Live & Recorded sessions with Navodaya faculty" },
+      { "icon": "notes", "title": "Study Material", "description": "Complete PDF notes for all subjects" },
+      { "icon": "quiz", "title": "Mock Tests", "description": "JNVST Class 9 pattern full mock tests" },
+      { "icon": "doubt", "title": "Doubt Solving", "description": "24/7 dedicated support for all queries" }
+    ],
+    "teachers": [
+      { "name": "Karishma Thakur", "role": "Navodaya Expert", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Ankit Dutta", "role": "Tuition Head", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" }
+    ]
   },
   {
     "id": "adca",
@@ -37,12 +63,24 @@
     "lessons": 120,
     "rating": 4.9,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Computer",
     "cardColorHex": "#EDFFF4",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/3474/3474360.png",
     "description": "Advanced Diploma in Computer Applications covering MS Office, Internet, Tally, HTML basics and programming introduction.",
     "whatYouLearn": ["MS Word Excel and PowerPoint", "Internet and email usage", "Tally basics and accounting", "HTML and web fundamentals", "Programming introduction", "Computer hardware basics"],
-    "requirements": ["Basic computer knowledge", "Class 10 pass", "Laptop or PC access"]
+    "requirements": ["Basic computer knowledge", "Class 10 pass", "Laptop or PC access"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "Live practical sessions with expert instructors" },
+      { "icon": "notes", "title": "Study Material", "description": "Complete ADCA PDF notes and reference material" },
+      { "icon": "test", "title": "Practice Tests", "description": "Topic wise tests after every chapter" },
+      { "icon": "award", "title": "Certificate", "description": "Get ADCA certificate after course completion" }
+    ],
+    "teachers": [
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Ankit Dutta", "role": "Tuition Head", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" }
+    ]
   },
   {
     "id": "dca",
@@ -52,12 +90,24 @@
     "lessons": 80,
     "rating": 4.7,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Computer",
     "cardColorHex": "#FFF0F5",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920277.png",
     "description": "Diploma in Computer Applications covering all basic computer skills needed for office and day to day use.",
     "whatYouLearn": ["Computer fundamentals", "MS Office basics", "Internet browsing and email", "Typing skills", "Basic file management"],
-    "requirements": ["No prior experience needed", "Basic English reading", "Computer access"]
+    "requirements": ["No prior experience needed", "Basic English reading", "Computer access"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "Live practical sessions for all DCA topics" },
+      { "icon": "notes", "title": "Study Material", "description": "DCA complete notes and practice sheets" },
+      { "icon": "test", "title": "Practice Tests", "description": "Chapter wise assessment tests" },
+      { "icon": "award", "title": "Certificate", "description": "DCA diploma certificate on completion" }
+    ],
+    "teachers": [
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Ankit Dutta", "role": "Tuition Head", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" }
+    ]
   },
   {
     "id": "dfa",
@@ -67,12 +117,24 @@
     "lessons": 70,
     "rating": 4.6,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Computer",
     "cardColorHex": "#F5F0FF",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/3281/3281289.png",
     "description": "Diploma in Financial Accounting covering manual and computerized accounting with Tally and GST fundamentals.",
     "whatYouLearn": ["Manual accounting basics", "Tally ERP 9 and Tally Prime", "GST fundamentals", "Balance sheet preparation", "Financial statements"],
-    "requirements": ["Class 10 with Commerce preferred", "Basic computer knowledge", "Calculator"]
+    "requirements": ["Class 10 with Commerce preferred", "Basic computer knowledge", "Calculator"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "Live accounting sessions with practical examples" },
+      { "icon": "notes", "title": "Study Material", "description": "DFA complete notes with solved examples" },
+      { "icon": "test", "title": "Practice Tests", "description": "Accounting problem sets after every topic" },
+      { "icon": "award", "title": "Certificate", "description": "DFA certificate on successful completion" }
+    ],
+    "teachers": [
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Ankit Dutta", "role": "Tuition Head", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" }
+    ]
   },
   {
     "id": "tally",
@@ -82,12 +144,24 @@
     "lessons": 90,
     "rating": 4.8,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Accounting",
     "cardColorHex": "#FFF5E6",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/2910/2910768.png",
     "description": "Complete Tally Prime course with GST filing. Learn accounting from scratch to advanced level with real-world business examples.",
     "whatYouLearn": ["Tally Prime complete", "GST return filing", "Ledger and voucher entry", "Payroll management", "Inventory management", "Bank reconciliation"],
-    "requirements": ["Basic accounting knowledge preferred", "Computer access", "Tally Prime installed"]
+    "requirements": ["Basic accounting knowledge preferred", "Computer access", "Tally Prime installed"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "Live Tally sessions with real business examples" },
+      { "icon": "notes", "title": "Study Material", "description": "Complete Tally + GST reference notes" },
+      { "icon": "test", "title": "Practice Tests", "description": "GST filing and Tally practice exercises" },
+      { "icon": "award", "title": "Certificate", "description": "Tally + GST course completion certificate" }
+    ],
+    "teachers": [
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Ankit Dutta", "role": "Tuition Head", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" }
+    ]
   },
   {
     "id": "android",
@@ -97,12 +171,24 @@
     "lessons": 110,
     "rating": 4.9,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Programming",
     "cardColorHex": "#E6FFE9",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/888/888839.png",
     "description": "Build real Android apps from scratch using Kotlin and Jetpack Compose. From UI design to publishing on Play Store.",
     "whatYouLearn": ["Kotlin programming fundamentals", "Jetpack Compose UI", "Navigation component", "REST API with Retrofit", "Room database", "Publish on Play Store"],
-    "requirements": ["Basic programming knowledge", "Laptop with Android Studio", "Minimum 8GB RAM recommended"]
+    "requirements": ["Basic programming knowledge", "Laptop with Android Studio", "Minimum 8GB RAM recommended"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Coding", "description": "Live coding sessions with real app projects" },
+      { "icon": "notes", "title": "Source Code", "description": "Complete source code for all projects" },
+      { "icon": "test", "title": "Assignments", "description": "Hands-on coding assignments every week" },
+      { "icon": "award", "title": "Certificate", "description": "Android Developer certificate on completion" }
+    ],
+    "teachers": [
+      { "name": "Sartaj Sheikh", "role": "Android Developer", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" }
+    ]
   },
   {
     "id": "java",
@@ -112,12 +198,24 @@
     "lessons": 95,
     "rating": 4.8,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Programming",
     "cardColorHex": "#FFF9E6",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/226/226777.png",
     "description": "Master Core Java with complete Object Oriented Programming concepts. Build strong foundation for Android and backend development.",
     "whatYouLearn": ["Java syntax and basics", "OOPs concepts classes and objects", "Inheritance and polymorphism", "Exception handling", "Collections framework", "File handling"],
-    "requirements": ["No prior coding experience needed", "Computer with JDK installed", "Willingness to practice"]
+    "requirements": ["No prior coding experience needed", "Computer with JDK installed", "Willingness to practice"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "Live Java coding sessions with examples" },
+      { "icon": "notes", "title": "Study Material", "description": "Java complete notes with code examples" },
+      { "icon": "test", "title": "Coding Tests", "description": "Java coding challenges after every topic" },
+      { "icon": "award", "title": "Certificate", "description": "Java programming certificate on completion" }
+    ],
+    "teachers": [
+      { "name": "Sartaj Sheikh", "role": "Java Developer", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" }
+    ]
   },
   {
     "id": "python",
@@ -127,12 +225,24 @@
     "lessons": 85,
     "rating": 4.7,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Programming",
     "cardColorHex": "#E9F4FF",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
     "description": "Python programming from beginner to intermediate. Covers all fundamentals with practical projects and exercises.",
     "whatYouLearn": ["Python syntax and variables", "Control flow and loops", "Functions and modules", "File handling", "Introduction to libraries", "Mini projects"],
-    "requirements": ["No experience needed", "Computer with Python installed", "Basic math knowledge"]
+    "requirements": ["No experience needed", "Computer with Python installed", "Basic math knowledge"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "Live Python sessions with real projects" },
+      { "icon": "notes", "title": "Study Material", "description": "Python notes with code examples" },
+      { "icon": "test", "title": "Coding Tests", "description": "Python exercises after every lesson" },
+      { "icon": "award", "title": "Certificate", "description": "Python programming certificate" }
+    ],
+    "teachers": [
+      { "name": "Sartaj Sheikh", "role": "Python Developer", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" }
+    ]
   },
   {
     "id": "kotlin",
@@ -142,12 +252,24 @@
     "lessons": 100,
     "rating": 4.8,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Programming",
     "cardColorHex": "#F0EAFF",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
     "description": "Complete Kotlin programming for modern Android development. Covers coroutines, flow, and Jetpack libraries.",
     "whatYouLearn": ["Kotlin basics and syntax", "Null safety", "Coroutines and Flow", "Jetpack Compose basics", "ViewModel and StateFlow", "Clean architecture"],
-    "requirements": ["Basic Java or programming knowledge", "Android Studio installed", "Laptop with good specs"]
+    "requirements": ["Basic Java or programming knowledge", "Android Studio installed", "Laptop with good specs"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "Live Kotlin coding with Android projects" },
+      { "icon": "notes", "title": "Study Material", "description": "Kotlin complete notes and source code" },
+      { "icon": "test", "title": "Coding Tests", "description": "Kotlin challenges after every module" },
+      { "icon": "award", "title": "Certificate", "description": "Kotlin developer certificate" }
+    ],
+    "teachers": [
+      { "name": "Sartaj Sheikh", "role": "Kotlin Developer", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" }
+    ]
   },
   {
     "id": "sscgd",
@@ -157,12 +279,24 @@
     "lessons": 60,
     "rating": 4.7,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Competitive",
     "cardColorHex": "#FFECE6",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/1995/1995574.png",
     "description": "Complete SSC GD Constable exam preparation covering all 4 sections with previous year papers and mock tests.",
     "whatYouLearn": ["General Intelligence and Reasoning", "General Knowledge and Awareness", "Elementary Mathematics", "English and Hindi", "Previous year paper analysis"],
-    "requirements": ["Class 10 pass", "Age between 18-23 years", "Daily 2 hours study commitment"]
+    "requirements": ["Class 10 pass", "Age between 18-23 years", "Daily 2 hours study commitment"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "Live sessions covering all SSC GD sections" },
+      { "icon": "notes", "title": "Study Material", "description": "SSC GD complete notes and previous papers" },
+      { "icon": "quiz", "title": "Mock Tests", "description": "50+ SSC GD full length mock tests" },
+      { "icon": "doubt", "title": "Doubt Solving", "description": "24/7 support for exam queries" }
+    ],
+    "teachers": [
+      { "name": "Sartaj Sheikh", "role": "Competitive Expert", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Ankit Dutta", "role": "Tuition Head", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" }
+    ]
   },
   {
     "id": "wb9",
@@ -172,12 +306,25 @@
     "lessons": 150,
     "rating": 4.9,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Tuitions",
     "cardColorHex": "#E6F5FF",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/3976/3976626.png",
     "description": "Complete West Bengal Board Class 9 tuition covering all subjects — Mathematics, Science, English, History and Geography.",
     "whatYouLearn": ["Mathematics complete syllabus", "Physical Science and Life Science", "English grammar and literature", "History of India and World", "Geography of India and WB"],
-    "requirements": ["Class 8 pass", "WB Board syllabus books", "Notebook for each subject"]
+    "requirements": ["Class 8 pass", "WB Board syllabus books", "Notebook for each subject"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "Daily live classes for all WB Board subjects" },
+      { "icon": "notes", "title": "Study Material", "description": "WB Board Class 9 complete notes" },
+      { "icon": "quiz", "title": "Mock Tests", "description": "Chapter wise and full syllabus tests" },
+      { "icon": "doubt", "title": "Doubt Solving", "description": "Subject wise doubt clearing sessions" }
+    ],
+    "teachers": [
+      { "name": "Dhiraj Prasad", "role": "WB Board Expert", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" },
+      { "name": "Ankit Dutta", "role": "Tuition Head", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" },
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" }
+    ]
   },
   {
     "id": "wb10",
@@ -187,12 +334,25 @@
     "lessons": 160,
     "rating": 4.9,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Tuitions",
     "cardColorHex": "#FFEEF5",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/3976/3976626.png",
     "description": "Madhyamik board exam complete preparation. All subjects covered with focus on scoring high in WB Board Class 10 exams.",
     "whatYouLearn": ["Mathematics with shortcuts", "Physical and Life Science", "English for board exam", "History and Geography Madhyamik", "Full mock test papers"],
-    "requirements": ["Class 9 completion", "WB Board books Class 10", "Regular study habit"]
+    "requirements": ["Class 9 completion", "WB Board books Class 10", "Regular study habit"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Classes", "description": "Daily live Madhyamik prep sessions" },
+      { "icon": "notes", "title": "Study Material", "description": "WB Board Class 10 complete notes" },
+      { "icon": "quiz", "title": "Mock Tests", "description": "Madhyamik pattern full mock tests" },
+      { "icon": "doubt", "title": "Doubt Solving", "description": "Subject wise doubt clearing sessions" }
+    ],
+    "teachers": [
+      { "name": "Dhiraj Prasad", "role": "WB Board Expert", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" },
+      { "name": "Ankit Dutta", "role": "Tuition Head", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" },
+      { "name": "Erick Xalxo", "role": "Computer Educator", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" }
+    ]
   },
   {
     "id": "english",
@@ -202,11 +362,23 @@
     "lessons": 75,
     "rating": 4.8,
     "isFree": true,
+    "price": "0",
+    "buttonText": "Enroll Free",
     "category": "Language",
     "cardColorHex": "#EDFFF4",
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/484/484582.png",
     "description": "Complete spoken English course from beginner to advanced. Learn to speak confidently in interviews, office and daily life.",
     "whatYouLearn": ["Basic English grammar", "Sentence building skills", "Speaking with confidence", "Interview preparation", "Business English basics", "Pronunciation improvement"],
-    "requirements": ["Basic Hindi or regional language literacy", "Willingness to speak and practice", "No prior English needed"]
+    "requirements": ["Basic Hindi or regional language literacy", "Willingness to speak and practice", "No prior English needed"],
+    "whatYouGet": [
+      { "icon": "live", "title": "Live Speaking", "description": "Live speaking practice sessions daily" },
+      { "icon": "notes", "title": "Study Material", "description": "English grammar notes and vocabulary lists" },
+      { "icon": "test", "title": "Speaking Tests", "description": "Weekly spoken English assessments" },
+      { "icon": "award", "title": "Certificate", "description": "English Spoken course completion certificate" }
+    ],
+    "teachers": [
+      { "name": "Sartaj Sheikh", "role": "English Expert", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/bd3d0bc7dabe8167d6790bd14cc494010aa88a55/erick_img.jpg" },
+      { "name": "Ankit Dutta", "role": "Tuition Head", "imageUrl": "https://raw.githubusercontent.com/ERICKXALXO/course_data-jason-Spark/7c99bc983fdb312e790ea5883a372a036015dbb8/Gemini_Generated_Image_g24d3cg24d3cg24d.png" }
+    ]
   }
 ]
